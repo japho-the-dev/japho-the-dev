@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Japheth Kipkemoi</h1>
 <h3 align="center"> A passionate Software Developer from Kenya. </br> 
   Let's connect and collaborate to solve challenging problems in software engineering! </br>
-  I enjoy programming and web development. Python Developer. Problem Solver</h3>
+  I enjoy programming and web development. Python Developer.</br> Problem Solver.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/japho__" target="blank"><img src="https://img.shields.io/twitter/follow/japho__?logo=twitter&style=for-the-badge" alt="japho__" /></a> </p>
